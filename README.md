@@ -1,6 +1,8 @@
 # IssueTracker App
 
-App lets users log issues related a project user is working on, track issues on your progress.
+log issues related a project a developer is working on, track issues on their progress.
+
+Report bugs and check if status is opened or closed.
 
 ## Credits
 

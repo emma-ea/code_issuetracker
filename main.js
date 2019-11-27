@@ -1,5 +1,6 @@
 document.getElementById('issueInputForm').addEventListener('submit', saveIssue);
 
+document.querySelector("form").autocomplete = "off";
 
 function saveIssue(e) {
     var issueDesc = document.getElementById('issueDescInput').value;
@@ -31,7 +32,6 @@ function saveIssue(e) {
 
     e.preventDefault();
 }
-
 
 function setStatusClosed(id) {
     var issues = JSON.parse(localStorage.getItem('issues'));

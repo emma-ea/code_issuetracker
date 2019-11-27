@@ -6,4 +6,4 @@ Report bugs and check if status is opened or closed.
 
 ## Credits
 
-codingthesmartway.com
+Sebastian @ www.codingthesmartway.com

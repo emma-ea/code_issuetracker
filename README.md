@@ -1,4 +1,4 @@
-# IssueTracker App
+# IssueTracker Web App
 
 log issues related a project a developer is working on, track issues on their progress.
 
